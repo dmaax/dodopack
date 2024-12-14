@@ -1,0 +1,13 @@
+name = "Botania Delight"
+filename = "botaniadelight-1.0.3.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53f4c1d0523ee0cbfc873eb7af916f40c332acc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5923313
+project-id = 1071849
