@@ -411,6 +411,16 @@ hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "a7c037a5b9863f7104d5495ec0bb5df56c4d4cff49e351a3cd1db7690dc7031d"
+metafile = true
+
+[[files]]
 file = "mods/ender-io.pw.toml"
 hash = "9d6ee1634d7ac95652ead8d1094de37181e2c745e936cf52c757ae88d090b504"
 metafile = true
@@ -856,6 +866,11 @@ hash = "1b3c025255dd93c66a541aa3e7ccc0c4c02100ee394bda145700f2e9cdcf604c"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "3d77378b250ebe37af78b5dc697b774bffed96730999c7dfd47396e60dac410d"
 metafile = true
@@ -1038,6 +1053,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "e88c399a04a63ac80fdd5d191e509649ed2082a43cced7d2895e58951bc32921"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "09104a73dc79891bb0c4c73fb2f25e3360a9c36157d5cbe472f6ec32bc4a1b1e"
 metafile = true
 
 [[files]]
