@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build/Dodopack-1.0.0-SERVER.zip"
+hash = "fad7fd27028f847eab1e2d65461d9a28841b8bf077e25fb1f7b13b70a03aaeef"
+
+[[files]]
+file = "build/Dodopack-1.0.0.zip"
+hash = "52ca3c0b305b1b2bb389a64ad90eca9611cf4267178987100b10966801b9aedb"
+
+[[files]]
+file = "build/forge-1.20.1-47.3.0-installer.jar"
+hash = "6018abce95cc058768e365865fd7cf3bd31b5c553231daf885dc385fcd6d875a"
+
+[[files]]
+file = "build/forge-1.20.1-47.3.0-installer.jar.log"
+hash = "49035da88cb674813c698e03b9dd66d11079aef57b23b1fd9ce2f13f94de3419"
+
+[[files]]
+file = "build/forge-1.20.1-47.3.0-installer.jar:Zone.Identifier"
+hash = "26cf50753b0c16fd48536e46809fbc02234be04423dbf4358b0f54eb834f55dc"
+
+[[files]]
+file = "build/manifest.json"
+hash = "0d8596984c4e44ed1193f4a0191c45e6aac3a4c00337b43536a82e0945dd612c"
+
+[[files]]
+file = "build/modlist.html"
+hash = "c8cf3a77694edf09ab4fe0cab3130f93a5d27380f0440b9ff8e72f11872c4f1a"
+
+[[files]]
+file = "build/overrides/list"
+hash = "d46c1a283e4c4d1fd723fc08dcac3261a356d44af7ba850665af5564ded8785d"
+
+[[files]]
+file = "list"
+hash = "d46c1a283e4c4d1fd723fc08dcac3261a356d44af7ba850665af5564ded8785d"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "a2080d212c79e1331198d5fe4ac3146e9894c19dab497216a11627ddeaeea5d5"
 metafile = true
