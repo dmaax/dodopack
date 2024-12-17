@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "list"
-hash = "7c558fc2d5b087495538e8725798b9b244341bcd5d067ab54945d613715464e5"
-
-[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "a2080d212c79e1331198d5fe4ac3146e9894c19dab497216a11627ddeaeea5d5"
 metafile = true
